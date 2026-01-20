@@ -47,8 +47,8 @@ public class subarrayOpti {
 
     // int arr[]={1,2,3,1,1,1,1,4,2,3};
 
-    int arr[]={ -1, 1, 1 };
-
+    int arr[]={2,0,0,3};
+    
     Scanner sc=new Scanner(System.in);
 
     int k=sc.nextInt();
