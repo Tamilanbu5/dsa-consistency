@@ -23,8 +23,6 @@ public class PermutationRecursion {
 
             hey[i]=false;
 
-
-
         }
     }
 
