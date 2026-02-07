@@ -21,7 +21,8 @@ public class StringDiff {
     public static void main (String args[]){
 
         String s1="ram";
-        String s2="ramk";
+        String s2="ramk
+        ";
 
        
 
